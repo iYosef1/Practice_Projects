@@ -1,0 +1,31 @@
+Project: Math Teacher who will give you practice in mental math
+
+Object(s): teacher, mental math
+
+TEACHER
+
+Attributes: name of teacher, dictionary/vocabulary, question, answer, score, timer
+
+Methods:
+1) communicates with student (info, instructions)
+2) 'reads' & writes the question
+3) corrects you & writes the answer or confirms answer
+4) awards a point & writes the score
+5) runs/stops the timer
+
+
+
+
+Mental Math
+***The mental math class acts as the mind of the teacher but can also be the subject itself or even as a mental math
+booklet***
+
+Attributes: name, dictionary/vocabulary (numbers & operations) in mind, levels of difficulty in mind
+
+Methods:
+1) decides a random question by difficulty that returns 0 as the remainder, i.e. 9 % 3 = 0 or 20/4 = 0
+2) translates the question to a string
+3) finds the answer
+
+
+# Did not stick to exact plan above as coding continued
