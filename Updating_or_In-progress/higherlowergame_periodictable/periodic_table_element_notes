@@ -1,0 +1,79 @@
+
+#Numerical Values & Grouping from Periodic Table:
+
+#element symbol
+#element name
+#atomic number = number of protons = number of electrons
+#atomic number, number of protons, number of electrons all are equivalent in neutral-atoms in periodic table, in nature
+not always the case
+#in periodic table, atomic number is usually reference to number of protons, not number of electrons
+#atomic weight = number of protons + number of neutrons (+ number of electrons: very low almost nonexist mass)
+#neutrons = atomic weight - number of protons (atomic number)
+#group by properties, same number of valence electrons in outer shell (group 1 has 1 valence electron, group 2 has 2
+valence electrons, etc.)
+#groups are: alkali metal, alkaline earth metals, lanthanides, transition metals, post-transition metals, metalloids,
+other non-metals, halogens, noble gases
+
+
+
+#Theoretical Trends from Periodic Table:
+
+#Atomic Radius:
+#down the periodic table, atomic radius increases (because shell is being added)
+#go to the right, atomic radius decreases (1 more proton added, pulling in radius)
+#OVERALL: atomic radius increases going in the down-left direction
+
+#Ionization Energy: energy required to remove an electron from an atom, always from the outer most shell.
+#Electromagnetic force that attracts electrons to protons drops off very quickly with distance
+#So farther away electron is from nucleus the easier it is to pull it away
+#OVERALL: ionization increases going in the up-right direction (opposite trend of atomic radius)
+
+#Electron Affinity (opposition of ionization energy): tells you how much an atom wants to gain an electron.
+#noble gases have full outer shells so they can be disregarded
+#F has highest electron affinity and Fr has the lowest, that is, Fr would rather lose an electron
+#OVERALL: electron affinity increases going in the up-right direction
+
+#Electronegativity: the ability of an atom to hold electrons tightly
+#noble gases have full outer shells so they can be disregarded
+#smaller atoms with more protons for energy level (or higher effective nuclear charge Z(eff)) will hold electrons best
+#OVERALL: electronegativity increases going in the up-right direction
+
+
+#Isssue 1: The following 4 trends cannot be used to make higher-lower comparisons between each other. Only within each
+trend can a comparison be made between 2 elements.
+#Issue 2: The numerical values cannot be used to make higher-lower comparisons against any of the trends.
+
+#Solution: Numerical values have to be added to the dictionary for all of the trends
+
+
+
+#----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+#Elements with +/- electrons are called... Non-neutral Atoms aka. Ions:
+#Ionic Radius: electrons repel each other so adding electrons make atom bigger, and removing makes it smaller.
+#Ions with same electronic configuration will have the radii decrease as atomic number increases
+#(protons by default is referred to by atomic number in this context, also since electronic configuaration is same)
+
+#Elements with +/- neutrons, with differing number of protons from neutrons' count are called... Isotopes
+
+#Radioactive Elements: are elements that are found to be radioactive, only once found or accidentally created can that
+element be replicated as a radioactive element have a varying amount of neutrons and protons that creates instability,
+and decay always follows
+#most radioactive elements are isotopes
+
+#atoms constitute isotopes & radioactive elements; ions constitute non-radioactive and non-isotopic elements AND
+radioactive and isotopic elements
+
+
+
+#----------------------------------------------------------------------------------------------------------------------------------
+
+# group by properties, same number of valence electrons in outer shell
+# (group 1 has 1 valence electron, group 2 has 2 valence electrons, etc.)
+
+# atomic number, number of protons, number of electrons all are equivalent in neutral-atoms in periodic table,
+# in nature not always the case
+
+# in periodic table, atomic number is usually reference to number of protons, not number of electrons
